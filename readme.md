@@ -82,3 +82,8 @@ This project was inspired by [this dribbble shot](http://dribbble.com/shots/1072
 
 - Contributing Guidelines can be found [here](contributing.md)
 - Licenced under MIT - [details here](license.md)
+
+## Modified version
+
+- remove default font that loaded, because suck. everybody need use their own font.
+- remove clunky color of button as default. use text instead of button 
